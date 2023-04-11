@@ -1,2 +1,6 @@
 hello world!
 I am learning all about Git plus GitHub!
+I learned a ton of things about HTML tags and elements today!
+I learned to set the DOCTYPE at the top to tell the browser what ver of HTML im using.
+Then I learned to set a meta tag to denote the charset, which is usually UTC-8!
+I also learned about bolding and italicizing (<strong> and <em>)
