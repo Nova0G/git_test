@@ -4,3 +4,5 @@ I learned a ton of things about HTML tags and elements today!
 I learned to set the DOCTYPE at the top to tell the browser what ver of HTML im using.
 Then I learned to set a meta tag to denote the charset, which is usually UTC-8!
 I also learned about bolding and italicizing (<strong> and <em>)
+I learned about lists, images and how attributes work.
+I also learned about absolute and relative paths (in terms of links, but that knowledge is applicable elsewhere)
